@@ -1,11 +1,2 @@
-ro.bootimage.build.tags=release-keys
 ro.build.display.id=BP1A.250505.005 release-keys
-ro.build.tags=release-keys
-ro.product.build.tags=release-keys
-ro.system.build.tags=release-keys
-ro.system_dlkm.build.tags=release-keys
-ro.system_ext.build.tags=release-keys
-ro.vendor.build.tags=release-keys
-ro.vendor_dlkm.build.tags=release-keys
-ro.build.flavor=giulia-user
-ro.boot.verifiedbootstate=green
+ro.build.flavor=sargo-user
